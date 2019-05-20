@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ## I want iron throne, bye bye byhe bye bye
+=======
+## I want iron throne, fuck it
+>>>>>>> e3e9b0d3ca710be5507da1612d10cb9091308cd51
